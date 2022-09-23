@@ -1,0 +1,43 @@
+#header {
+    height: 100%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+
+#header #logo img { 
+    height: 100%;
+    width: 50%;
+    margin-left:auto;
+    margin-right: auto;
+    padding: 4px 4px;
+}
+
+
+table thead {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
+    color: rgb(0, 81, 255);
+}
+
+
+table tbody {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+table tbody td img {
+    height: 80px;
+    width: 80px;
+}
+
+.contato a img{
+    height: 50px;
+    width: 60px;
+    position: fixed;
+    float: right;
+}
+
+ul {
+color:rgb(0, 81, 255);
+}
